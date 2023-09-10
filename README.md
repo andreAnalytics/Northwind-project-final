@@ -31,5 +31,5 @@ The outcome of the dimensional modeling is summarized by the Entity Relationship
 
 ## Example Dashboard (based on semantic layer): Preset
 
- ![](images/Dashboard_Preset.png)
+ ![](https://user-images.githubusercontent.com/144042918/266854419-d3d2d200-4a24-4328-8e99-80541e332c43.png)
 
