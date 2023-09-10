@@ -27,7 +27,7 @@ To facilitate this transformation, fact and dimension tables are created. The fa
 ## Dimensional modeling (fact and dimensional tables)
 The outcome of the dimensional modeling is summarized by the Entity Relationship Diagram (ERD) shown below (FK = Foreign Key, SK = Surrogate Key, NK = Natural Key).
 
-![](images/ERD.png)
+![](https://user-images.githubusercontent.com/144042918/266854878-be5c4c31-c422-4ce7-a4bc-72e6b5164621.png)
 
 ## Example Dashboard (based on semantic layer): Preset
 
