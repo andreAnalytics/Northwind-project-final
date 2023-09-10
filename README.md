@@ -19,7 +19,7 @@ The database used in this project represents a classic database that was origina
 
 ## Solution architecture
 
-![](images/Architecture.png)
+![](https://user-images.githubusercontent.com/144042918/266853325-f07cda1e-b8b0-48fc-a63d-7653abc11063.png)
 
 ## Dataflow: from source to BI-tool
 To facilitate this transformation, fact and dimension tables are created. The fact table contains the metrics, facts, or measurements of the business process. The dimension tables, on the other hand, contain descriptive attributes that are used to filter, sort, and describe the facts. By organizing data in this way, it allows for more efficient querying and data analysis.
